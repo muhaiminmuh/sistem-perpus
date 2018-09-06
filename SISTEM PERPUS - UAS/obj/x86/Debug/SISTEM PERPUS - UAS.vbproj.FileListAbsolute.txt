@@ -1,0 +1,46 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form1.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form2.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form3.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.vbproj.GenerateResource.Cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.pdb
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.exe
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.xml
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.pdb
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.exe
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.pdb
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.xml
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form1.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form2.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form3.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form4.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form5.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form6.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Resources.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.vbproj.GenerateResource.Cache
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.exe.config
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2010\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.MENU.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.exe.config
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.exe
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.xml
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.pdb
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.exe
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.pdb
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\bin\Debug\SISTEM PERPUS - UAS.xml
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.vbprojResolveAssemblyReference.cache
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form1.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form2.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form3.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form4.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form5.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form6.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.MENU.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Resources.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM PERPUS - UAS.vbproj.GenerateResource.Cache
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\SISTEM PERPUS - UAS\SISTEM PERPUS - UAS\obj\x86\Debug\SISTEM_PERPUS___UAS.Form8.resources
